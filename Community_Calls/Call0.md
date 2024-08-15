@@ -11,7 +11,7 @@
   - Preconfs: Luban and Puffer
 
 ## Notes
-- See link [here](https://docs.google.com/document/d/12dkiY3kxF4cjoeDHOo__--y1P_tTsA5szKlRyDCs-Ek/edit)
+- See link [here](https://docs.google.com/document/d/1-UpILcKmwXWiBz7E3MO9H8raK9Cq0KWddkMjT8RltJo/edit#heading=h.2whbk0my4lq5)
 
 ## Recording
 
