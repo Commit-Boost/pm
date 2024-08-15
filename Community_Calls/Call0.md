@@ -6,8 +6,8 @@
 - Discussion on validator feedback from testing in Holesky
 - Discussion on signatures, focused on BLS and ECDSA, [see here](https://github.com/Commit-Boost/pm/issues/1#issue-2466852087)
 - Modules:
-  - PBS Module:
-  - Inclusion List Module
+  - PBS Module, repo and details here
+  - Inclusion List Module, repo and details [here](https://github.com/eserilev/il-boost)
   - Preconfs: Luban and Puffer
 
 ## Notes
