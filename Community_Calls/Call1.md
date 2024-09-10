@@ -1,10 +1,14 @@
 # Commit-Boost Community Call #1
 ## September 18th 11:00 EST
 ## Agenda (WIP):
-- Community Updates
+- General Community Update
 - Technical Updates
+- Validator Updates 
+  - k8s
+  - General testing 
 - Benchmark performance discussion
 - Module Updates
+  - [Chainbound] 
 
 ## Notes
 - See link [here](https://docs.google.com/document/d/1-UpILcKmwXWiBz7E3MO9H8raK9Cq0KWddkMjT8RltJo/edit#heading=h.2whbk0my4lq5)
