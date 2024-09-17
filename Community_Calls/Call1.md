@@ -24,4 +24,5 @@
 - Support both BLS (registrations) and ECDSA (to access funds / slash / smart contracts): https://github.com/Commit-Boost/commit-boost-client/issues/20
 - Some type of data analysis and metrics on performance on pbs on commit-boost versus mev-boost: https://github.com/Commit-Boost/commit-boost-client/issues/95
 - The dashboard can reflect the latest slot for each relay: Confirming with call participant on best way to show this
+  - Completed via -> https://github.com/Commit-Boost/commit-boost-client/pull/126     
 - Fall back addresses for each relay: Addressed on call
