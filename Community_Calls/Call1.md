@@ -14,10 +14,10 @@
 - See link [here](https://docs.google.com/document/d/1-UpILcKmwXWiBz7E3MO9H8raK9Cq0KWddkMjT8RltJo/edit#heading=h.2whbk0my4lq5)
 
 ## Recording
-- See link here (to be updated)
+- See link [here](https://www.youtube.com/watch?v=afn1X79WYJs)
 
 ## Action items / feedback raised during call 1:
-- To be updated
+- None of note
 
 ## Action items / feedback raised during Call 0:
 - Get kurtosis tools / development process: https://github.com/Commit-Boost/commit-boost-client/issues/90
