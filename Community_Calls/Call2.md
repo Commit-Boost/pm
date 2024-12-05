@@ -2,7 +2,7 @@
 ## Dec 11 @ 11:00 EST
 ## Agenda (WIP):
 - General Community Update
-  - Audit (by Sigp)
+  - Audit update
   - Rated and Module Evalution
   - Preconf + based commitment policy (post [here](https://research.lido.fi/t/proposer-commitment-preconf-policy/8939))
 - Technical Updates
@@ -10,8 +10,9 @@
   - Focus over the next few weeks 
 - Validator Updates 
   - Chorus One testing presentation
+  - Kiln on multiplexer
 Module Updates 
-  - Bolt by Chainbound
+  - Bolt-Boost by Chainbound
 
 ## Notes
 - See link [here](https://docs.google.com/document/d/1-UpILcKmwXWiBz7E3MO9H8raK9Cq0KWddkMjT8RltJo/edit#heading=h.2whbk0my4lq5)
