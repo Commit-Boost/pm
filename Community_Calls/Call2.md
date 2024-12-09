@@ -2,7 +2,7 @@
 ## Dec 11 @ 11:00 EST
 ## Agenda (WIP):
 - General Community Update
-  - Audit update
+  - Audit update (link [here](https://github.com/sigp/public-audits)
   - Preconf + based commitment policy (post [here](https://research.lido.fi/t/proposer-commitment-preconf-policy/8939))
   - Rated and Module Evalution
 - Technical Updates
