@@ -11,7 +11,7 @@
 - Validator Updates 
   - Chorus One testing presentation
   - Kiln on multiplexer
-Module Updates 
+- Module Updates 
   - Bolt-Boost by Chainbound
 
 ## Notes
