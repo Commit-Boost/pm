@@ -3,8 +3,8 @@
 ## Agenda (WIP):
 - General Community Update
   - Audit update
-  - Rated and Module Evalution
   - Preconf + based commitment policy (post [here](https://research.lido.fi/t/proposer-commitment-preconf-policy/8939))
+  - Rated and Module Evalution
 - Technical Updates
   - Major updates since last community call
   - Focus over the next few weeks 
