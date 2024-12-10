@@ -4,7 +4,7 @@
 - General Community Update
   - Audit update (link [here](https://github.com/sigp/public-audits)) 
   - Preconf + based commitment policy (post [here](https://research.lido.fi/t/proposer-commitment-preconf-policy/8939))
-  - Rated and Module Evalution
+  - Rated and Module Evaluation
 - Technical Updates
   - Major updates since last community call
   - Focus over the next few weeks 
