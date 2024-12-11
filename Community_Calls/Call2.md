@@ -18,10 +18,12 @@
 - See link [here](https://docs.google.com/document/d/1-UpILcKmwXWiBz7E3MO9H8raK9Cq0KWddkMjT8RltJo/edit#heading=h.2whbk0my4lq5)
 
 ## Recording
-- See link here (To be updated)
+- See link [here](https://www.youtube.com/watch?v=PPWwpPx4it0)
 
 ## Action items / feedback raised during call 2:
-- To be updated
+- Keep discussing the MUX and stateless modules [here](https://github.com/Commit-Boost/commit-boost-client/issues/61)
+- Please ping Elias at Rated if you have ideas or strong views based on potentially establishing a quantitative risk assessment of modules / the proposer commitment pipeline
+- We are looking for someone to code up a reference implementation and test out new precompile in pectra
 
 ## Action items / feedback raised during Call 1:
 - None of note
